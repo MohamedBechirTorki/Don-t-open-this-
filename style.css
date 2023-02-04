@@ -1,0 +1,11 @@
+a {
+    display: block;
+    width: fit-content;
+    margin: 50px auto;
+    padding: 20px 40px;
+    background-color: rgb(0, 53, 66);
+    color: white;
+    border-radius: 20px;
+    font-size: 30px;
+    text-decoration: none;
+}
